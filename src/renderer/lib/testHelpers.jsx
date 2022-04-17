@@ -3,6 +3,7 @@ import {createStore} from 'redux';
 import {Provider} from "react-redux";
 import {render} from "@testing-library/react";
 import store, {reducers, middleware} from "../store";
+import '@testing-library/jest-dom';
 
 export * from '@testing-library/react';
 

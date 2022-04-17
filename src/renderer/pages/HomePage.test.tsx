@@ -1,9 +1,9 @@
 import '@testing-library/jest-dom';
-import { render } from '@testing-library/react';
-import HomePage from "./HomePage";
+import HomePage from './HomePage';
+import { renderWithRedux } from '../lib/testHelpers';
 
 describe('HomePage', () => {
   it('should render', () => {
-    expect(render(<HomePage />)).toBeTruthy();
+    expect(renderWithRedux(<HomePage />)).toBeTruthy();
   });
 });

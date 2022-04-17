@@ -1,110 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af2f72b-8763-426a-8c37-3f277d6ce2f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.base.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.eslint.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.main.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.preload.dev.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.renderer.dev.dll.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.renderer.dev.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.config.renderer.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/configs/webpack.paths.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/dll/preload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/img/erb-banner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/img/erb-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/mocks/fileMock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/check-build-exists.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/check-native-dep.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/check-node-env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/check-port-in-use.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/clean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/delete-source-maps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/electron-rebuild.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/link-modules.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.erb/scripts/notarize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/1-Bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/2-Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/3-Feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/stale.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE copy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/assets.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/entitlements.mac.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/1024x1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/128x128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/24x24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/64x64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/prism-live.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jestSetup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/main/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/main/main.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/main/preload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/renderer/548e5c52c412f6fad635.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/renderer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/renderer/renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/renderer/renderer.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/dist/renderer/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/node_modules/.yarn-integrity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release/app/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__tests__/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/menu.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/preload.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/util.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/App.default.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/Font.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/Font.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/PointInput.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/PointInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/PrismCode.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/context/FontContext.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/lib/testHelpers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/pages/HomePage.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/pages/HomePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/preload.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/font/font.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/font/font.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/font/font.selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    <list default="true" id="1af2f72b-8763-426a-8c37-3f277d6ce2f4" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/PrismCode.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jestSetup.js" beforeDir="false" afterPath="$PROJECT_DIR$/jestSetup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/Font.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/Font.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/PointInput.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/PointInput.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/PrismCode.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/PrismCode.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/lib/testHelpers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/lib/testHelpers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/pages/HomePage.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/pages/HomePage.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/pages/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/pages/HomePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/store/font/font.selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/store/font/font.selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,69 +81,82 @@
       <recent name="$PROJECT_DIR$/src/renderer/components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
-    <configuration name="Font.font size.should increment up to max value of 40pt when increment button is clicked" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.PrismCode.should render with correct font size">
+    <configuration name="HomePage" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/renderer/pages/HomePage.test.tsx" />
+      <test-names>
+        <test-name value="HomePage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="HomePage.should render code snippet" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/renderer/components/Font.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/renderer/pages/HomePage.test.tsx" />
       <test-names>
-        <test-name value="Font" />
-        <test-name value="font size" />
-        <test-name value="should increment up to max value of 40pt when increment button is clicked" />
+        <test-name value="HomePage" />
+        <test-name value="should render code snippet" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Font.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="PrismCode" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/renderer/components/Font.test.tsx" />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/renderer/components/PrismCode.test.tsx" />
+      <test-names>
+        <test-name value="PrismCode" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="PointInput.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="PrismCode.should merge className and style props" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/renderer/components/PointInput.test.tsx" />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/renderer/components/PrismCode.test.tsx" />
+      <test-names>
+        <test-name value="PrismCode" />
+        <test-name value="should merge className and style props" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="prepare" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="prepare" />
-      </scripts>
+    <configuration name="PrismCode.should render with correct font size" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/renderer/components/PrismCode.test.tsx" />
+      <test-names>
+        <test-name value="PrismCode" />
+        <test-name value="should render with correct font size" />
+      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
-        <item itemvalue="npm.prepare" />
-        <item itemvalue="Jest.PointInput.test.tsx" />
-        <item itemvalue="Jest.Font.test.tsx" />
-        <item itemvalue="Jest.Font.font size.should increment up to max value of 40pt when increment button is clicked" />
+        <item itemvalue="Jest.PrismCode.should render with correct font size" />
+        <item itemvalue="Jest.PrismCode.should merge className and style props" />
+        <item itemvalue="Jest.PrismCode" />
+        <item itemvalue="Jest.HomePage" />
+        <item itemvalue="Jest.HomePage.should render code snippet" />
       </list>
     </recent_temporary>
   </component>
@@ -258,8 +179,17 @@
       <workItem from="1649956373322" duration="5869000" />
       <workItem from="1650151194856" duration="39000" />
       <workItem from="1650151326039" duration="119000" />
-      <workItem from="1650151533914" duration="1727000" />
+      <workItem from="1650151533914" duration="1978000" />
+      <workItem from="1650192456182" duration="10792000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1650153847489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650153847489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,5 +205,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

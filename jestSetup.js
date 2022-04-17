@@ -1,4 +1,4 @@
-import {renderWithRedux} from './src/lib/testHelpers';
+import { renderWithRedux } from './src/renderer/lib/testHelpers';
 
 // jest.mock(
 //     'redux-persist',

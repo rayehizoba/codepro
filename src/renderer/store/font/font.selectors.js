@@ -4,4 +4,4 @@ export const selectFontSizeMin = (state) => state.font.sizeMin;
 
 export const selectFontSizeMax = (state) => state.font.sizeMax;
 
-// export const selectFontSizeFormatted = (state) => state.font.size + 'pt';
+export const selectFontSizeFormatted = (state) => `${state.font.size  }pt`;

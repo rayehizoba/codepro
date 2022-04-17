@@ -95,7 +95,7 @@ export default function HomePage() {
                 <div
                   className="cursor-auto px-2 py-1 flex items-center active:bg-gray-400/50 hover:transition">
                   <div className="text-sm flex-1">First Line Number</div>
-                  <input type="text" value={1} className="text-xs font-medium w-16 bg-gray-400/50 rounded-md text-center outline-none p-1"/>
+                  <input type="text" value={1} className="text-xs font-medium w-16 bg-gray-400/50 rounded-md text-center outline-none p-1" onChange={() => {}}/>
                 </div>
               </li>
             </ul>
